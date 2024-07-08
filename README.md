@@ -7,4 +7,4 @@ Se trata de una aplicación para poder convertir una cantidad de euros a dólare
 
 ### Capturas de la aplicación
 
-![Alt text](https://github.com/Marco0705/ConversionEurosDolares/blob/main/screenshots/1.png?raw=true)
+![Alt text](https://github.com/Marco0705/ConversionEurosDolares/blob/master/screenshots/1.png?raw=true)
